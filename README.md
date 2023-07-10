@@ -1,5 +1,5 @@
 # Estudos Django :new_moon: :milky_way:
-Site com funcionalidades de:
+Site desenvolvido com Django, com funcionalidades de:
 - cadastrar usuário;
 - realizar login;
 - realizar logout;
